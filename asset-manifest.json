@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/salesTracker/static/css/main.a7d54a95.css",
+    "main.js": "/salesTracker/static/js/main.41e206a6.js",
+    "index.html": "/salesTracker/index.html",
+    "main.a7d54a95.css.map": "/salesTracker/static/css/main.a7d54a95.css.map",
+    "main.41e206a6.js.map": "/salesTracker/static/js/main.41e206a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7d54a95.css",
+    "static/js/main.41e206a6.js"
+  ]
+}
